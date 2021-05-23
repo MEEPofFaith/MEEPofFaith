@@ -1,3 +1,7 @@
+# Overview
+Hi I'm some guy from California. I mainly just do Mindustry stuff. Go check out my main mod [Progressed Materials](https://github.com/MEEPofFaith/prog-mats-java).
+
+# Am I a good boi
 <details>
   <summary>Github Stats</summary>
   
